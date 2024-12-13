@@ -1,0 +1,4 @@
+com\example\playwright\tests\BaseTest.class
+com\example\playwright\tests\MobileApplicationTest.class
+com\example\playwright\tests\WebApplicationTest.class
+com\example\playwright\tests\LoginTest.class
